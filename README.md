@@ -1,13 +1,13 @@
-Twitter Analytics-Dashboard
+# Twitter Analytics-Dashboard
 
-DASHBOARD LINK: https://app.powerbi.com/links/Q0TRbq5_H9?ctid=50ecd50c-6687-4469-b51f-b48715fca477&pbi_source=linkShare
+### DASHBOARD LINK: https://app.powerbi.com/links/Q0TRbq5_H9?ctid=50ecd50c-6687-4469-b51f-b48715fca477&pbi_source=linkShare
 
-Problem Statement
+## Problem Statement
 
 This dashboard helps to Track and visualize the  Twitter metrics such as tweets, retweets, likes, replies and followers over time. It helps to Analyse the sentiment analysis and emotion detection to understand public opinions and their emotions towards the brand to make it effective. It identifies the top influencers, media files, hashtags and keywords that relates to our brand and the industry. It helps in the Content and Timing metrics to know the top performing tweets and hashtags and to know the best time to tweet and their tweet frequency. By creating this dashboard, we aim to improve our social media strategy to engage with our audience more effectively and make data driven decision and analytical analysis to enhance our brand reputation and online presence.
 
 
-Steps followed
+### Steps followed
 
 Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 
@@ -80,18 +80,18 @@ Step 19 : The report was then published to Power BI Service
 ![2](https://github.com/user-attachments/assets/32a5a607-b5c3-4d42-abe6-17b5539c7613)
 
 
-Snapshot of Dashboard (POWER BI SERVICE)
+# Snapshot of Dashboard (POWER BI SERVICE)
 
 ![2](https://github.com/user-attachments/assets/32a5a607-b5c3-4d42-abe6-17b5539c7613)
 
 
-Report Snapshot (POWER BI DESKTOP)
+# Report Snapshot (POWER BI DESKTOP)
 
 ![3](https://github.com/user-attachments/assets/44ea4dd0-3f76-46ed-90d0-67199c231385)
 
 
 
-Insights
+# Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
@@ -99,7 +99,7 @@ Following Task were worked out ,
 
 1.Build a pie chart that represents the proportion of total clicks (URL clicks, user profile clicks, and hashtag clicks) for tweets with more than 500 impressions. Include a drill-down to view the specific types of clicks for each tweet.
 
-SnapShot of Task 1
+# Snapshot of Task 1
 
 ![4](https://github.com/user-attachments/assets/aca0aa84-c3d6-4331-b08d-f670e9bd9c9d)
 
@@ -107,7 +107,7 @@ SnapShot of Task 1
 
 2.Create a clustered bar chart that breaks down the sum of URL clicks, user profile clicks, and hashtag clicks by tweet category (e.g., tweets with media, tweets with links, tweets with hashtags). Only include tweets that have at least one of these interaction types and this graph should work only between 3PM IST to 5 PM IST apart from that time we should not show this graph in dashboard itself and the tweet date should be even number as well as tweet word count be above 40.
 
-SnapShot of Task 2
+# Snapshot of Task 2
 
 ![5](https://github.com/user-attachments/assets/6f406d8a-3f64-4856-b52e-4ef0be1c5f2e)
 
@@ -115,7 +115,7 @@ SnapShot of Task 2
 
 3.Create a line chart showing the trend of the average engagement rate over each month of the year. Separate the lines for tweets with media content and those without and this graph should work only between 3PM IST to 5 PM IST and 7 AM to 11AM apart from that time we should not show this graph in dashboard itself and the tweet engagement should be even number and tweet date should be odd number as well as tweet character count should be below 20 and need to remove tweet word which has letter 'C.
 
-SnapShot of Task 3
+# Snapshot of Task 3
 
 ![6](https://github.com/user-attachments/assets/847b9b2a-32da-4372-b860-9686239c0d02)
 
