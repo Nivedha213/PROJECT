@@ -32,7 +32,13 @@ Step 10 : A Line chart was also added to the report design area representing the
 
 Step 11 : Pie Chart Visual was used to represent Sections mentioned below,
 
-(i) Hashtag Clicks (ii) URL Clicks (iii) User Profile Click In our dataset, Some parameters were assigned value 0, representing those parameters are not applicable for some Data.
+(i) Hashtag Clicks 
+
+(ii) URL Clicks 
+
+(iii) User Profile Click
+
+In our dataset, Some parameters were assigned value 0, representing those parameters are not applicable for some Data.
 
 All these values have been ignored while calculating Totals for each of the parameters mentioned above.
 
